@@ -1,8 +1,7 @@
 # Kingroot-Kinguser_to_Magisk-Supersu
 This is a script which was originally made by MrW0lf
-## [kingroot](https://apkapp.gallery/dl/100893095/)
 ## [kingroot](https://kingroot.sourceforge.io)
-## [kingroot apk](https://kingroot.sourceforge.net)
+
 
 Instructions to use this script
 
